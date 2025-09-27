@@ -1,0 +1,286 @@
+	.header{
+		padding:20px 40px;
+		display:flex;
+		align-items:center;
+		gap:80px;
+		background-color:white;
+		color:black;
+	}
+	.header img{
+		height:30px;
+		width:80px;
+	}
+	.header a{
+		color: black ;
+		font-size:17px;
+		font-weight:bold;
+		text-decoration:none;
+		font-family:Neue Haas Grotesk Display, sans-serif;
+
+	}
+	.headerside{
+		margin-left:auto;
+		display:flex;
+		gap:20px;
+		align-items:center;
+	}
+	.startbutton{
+		background-color:#8c58d0;
+		border-radius:10px;
+		color:black;
+		border:1px solid #1ec677;
+		padding:10px 40px;
+		font-weight:bold;
+		font-size:20px;	
+	}
+	.bannersection{
+		padding-top:70px;
+		padding:50px;
+		display:flex;
+	}
+	.banner_contentalign{
+		display:flex;
+		align-items:center;
+		text-align:left;
+	}
+	.bannersec_img {
+		height:400px;
+		width:100%;
+	}
+	.p_font {
+		font-size:50px;
+		font-weight:bold;
+	}
+	.bannersec_font {
+		font-size:15px;
+		color:gray;
+	}
+	.banneremailinput{
+		padding:10px 40px;
+	}.ratingsection{
+		padding-top:20px;
+		background-image:url("C:/Projects/imgs/V2.webp");
+		background-color:#cfbbf0
+	}.rating_contentalign{
+		display:flex;
+		gap:50px;
+		padding:20px;
+	}.rating_p_font{
+		font-size:50px;
+		font-weight:bold;
+		color:#42185f
+	}.imgalgin{
+		display:flex;
+		gap:30px;
+		justify-content:space-between
+	} .imgalgin img{
+		padding:20px;
+	}.adsection {
+		padding:20px;
+		background-color:#8c58d0;
+	}.adsection p {
+		font-size:30px;
+		font-family:"Neue Haas Grotesk Display", sans-serif;
+		text-align:center;
+	}.adsection img {
+		height:100px;
+		width:100px;	
+	}.ad_contentalgin_1{
+		border-radius:5px;
+		border:1px solid #cdb0fa;
+		background-color:#cdb0fa;
+		color:#4a4216;
+		height:150px;
+	}.ad_contentalgin_2{
+		border-radius:5px;
+		border:1px solid #183428;
+		background-color:#183428;
+		color:#d4e84b;
+		height:150px;
+	}.ad_contentalgin_3{
+		font-weight:bold;
+		border-radius:5px;
+		border:1px solid #42185f;
+		background-color:#42185f;
+		color:#f2a295;
+		height:150px;
+	}.ad_contentalgin_4{
+		border-radius:5px;
+		border:1px solid #d4e84b;
+		background-color:#d4e84b;
+		color:#8c58d0;
+		height:150px;
+	}.spacing{
+		display:flex;
+		gap:20px;
+		padding-top:20px;
+	}.adsection h4{
+		font-size: 24px;
+		font-weight:bold;
+	}.para_font_1{
+		color:#f2a295;
+		font-size:30px;
+		font-weight:bold;
+	}.cashsection{
+		padding:40px;
+	}.cashsection img{
+		align-items:left;
+		height:600px;
+		width:500px;
+	}.cashsection_font{
+		font-size:60px;
+		font-weight:bold;
+		font-family:Neue Haas Grotesk Display,sans-serif
+	}.learnbt{
+		background-color:#8c58d0;
+		color:white;
+		border:1px solid #8c58d0;
+		padding:10px 40px;
+		border-radius:5px;
+	}.growsection{
+		background-image:url("C:/Projects/imgs/money-shouldnt-cost.webp");
+		align-items:center;
+		color:#faefdc;
+		text-align:center;
+		height:600px;
+	}.growsection button{
+		background-color:white;
+		color:#8c58d0;
+		border:1px solid white;
+		padding:10px 40px;
+		border-radius:5px;
+	}.money_font{
+		font-size:50px;
+		font-weight:bold;
+	}.offersec{
+		padding:20px;
+		background-color:#183428;
+		color:#fdf0af;	
+	}.offersec_font{
+		font-size:50px;
+	}.cash_font{
+		font-size:20px;
+	}.offersec button{
+		background-color:white;
+		color:#8c58d0;
+		border:1px solid white;
+		padding:10px 40px;
+		border-radius:5px;
+	}.offersec img{
+		height:500px;
+	}.earlypay{
+		padding:20px;
+		color:#ed6c52;
+		background-color:#faefdc;
+	}.earlypay_img{
+		height:400px;
+		width:500px;
+	}.key_img{
+		height:150px;
+		width:200px;
+		padding:20px;
+	}.savingsec {
+		padding:20px;
+	}.saving_img{
+		position:relative;
+		top:10px;
+		height:450px;
+		width:420px;
+		right:0px;
+	}.saving_img_1{
+		position: absolute;
+		left: 10px;
+		width: 400px;
+	}.savingsec_font{
+		font-weight:bold;
+		font-size:40px
+	}.savingsec_font_p{
+		font-size:20px
+	}.depositsec{
+		padding:20px;
+		background-color:#faefdc;
+		color:black;
+	}.depositsec_img{
+		height:600px;
+		width:600px;
+	}.contentalign{
+		display:flex;
+		align-items:center;
+	}.creditsec{
+		background-color:#183428;
+		color:#fdf0af;
+		text-align:left;
+	}.creditsec_img{
+		height:600px;
+		width:600px;
+	}.learnbt_white{
+		background-color:white;
+		color:#8c58d0;
+		border:1px solid white;
+		padding:10px 40px;
+		border-radius:5px;
+	}.progresssec{
+		padding:20px;
+		background-color:#8c58d0;
+		color:white;
+	}.progresssec img{
+		height:300px;
+		width:300px;
+		padding:30px;
+	}.progresssec_font{
+		font-weight:bold;
+		font-size:40px;
+	}.pro_font{
+		font-size:15px;
+	}.name_font{
+		font-size:20px;
+		font-weight:bold;
+	}.securitysec{
+		padding:20px;
+		align-items:center;
+		color:#ed6c52;
+		text-align:center;
+	}.securitysec img{
+		height:400px;
+		width:100%;
+	}.sec_font{
+		font-weight:bold;
+		font-size:70px;
+	}.fdic_font{
+		color:black;
+		font-size:20px;
+	}.bottomsec{
+		padding:20px;
+		background-image:url("C:/Projects/imgs/Home-Bespoke-10-Bg-Img.webp");
+		height:200px;
+		text-align:center;
+		color:#d4e84b;
+	}.bottom_font{
+		font-size:40px;
+		font-weight:bold;
+		align-items:center;
+	}.footersection{
+		padding:40px;
+		background-color:black;
+		color:white;
+	}.varo_font{
+		font-size:30px;
+		font-weight:bold;
+	}.footersection img{
+		height:80px;
+		width:80px;
+		padding:20px;
+	}.footersection ul {
+		list-style: none;
+		gap: 20px;
+		margin: 0;
+		padding: 5px;
+	}.footersection ul li {
+		gap:20px;
+	}.footrow_algin{
+		border-top:1px solid white;
+		padding:20px;
+	}
+	
+	
+	
